@@ -1,0 +1,22 @@
+body
+{
+	background-image:url("../resources/images/sic.jpg");
+}
+h1
+{
+	font-size:50px;
+	padding:1em;
+	text-align:center;
+	color:white;
+}
+p
+{
+	font-size:30px;
+	font-family:Arial;
+	text-align:center;
+	color:#66FF66;
+}
+a
+{
+	color:yellow;
+}

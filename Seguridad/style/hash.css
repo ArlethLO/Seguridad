@@ -1,0 +1,23 @@
+body
+{
+	background-image:url("../resources/images/hash.jpg");
+}
+h1
+{
+	font-size:50px;
+	padding:1em;
+	text-align:center;
+	color:white;
+}
+p
+{
+	font-size:30px;
+	font-family:Baskerville;
+	text-align:center;
+	color:yellow;
+}
+a
+{
+	color:white;
+	font-size:20px;
+}

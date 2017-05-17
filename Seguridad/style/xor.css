@@ -1,0 +1,30 @@
+body
+{
+	background-image:url("../resources/images/im.jpg");
+}
+h1
+{
+	font-size:50px;
+	padding:1em;
+	text-align:center;
+	color:yellow;
+}
+label
+{
+	font-family:Arial Black;
+	font-size:23px;
+	color:white;
+	margin:550px;
+}
+p
+{
+	font-size:30px;
+	font-family:Baskerville;
+	text-align:center;
+	color:red;
+}
+a
+{
+	color:yellow;
+	font-size:20px;
+}

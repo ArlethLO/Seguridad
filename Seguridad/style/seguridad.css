@@ -1,0 +1,22 @@
+body
+{
+	background-image:url("../resources/images/segidad.jpg");
+}
+h1
+{
+	font-size:70px;
+	padding:1em;
+	text-align:center;
+	color:red;
+}
+p
+{
+	font-size:40px;
+	font-family:Baskerville;
+	text-align:center;
+	color:yellow;
+}
+a
+{
+	color:#FFFF00;
+}
