@@ -1,0 +1,23 @@
+body
+{
+	background-image:url("../resources/images/fondo.jpg");
+}
+h1
+{
+	font-size:50px;
+	padding:1em;
+	text-align:center;
+	color:red;
+}
+p
+{
+	font-size:30px;
+	font-family:Arial;
+	text-align:center;
+}
+a
+{
+	font-size:20px;
+	color:#FF3300;
+	text-align:right;
+}

@@ -1,0 +1,26 @@
+body
+{
+	background-image:url("../resources/images/fonaje.jpg");
+}
+h1
+{
+	font-size:50px;
+	padding:1em;
+	text-align:center;
+	color:#FF6600;
+}
+p
+{
+	font-size:35px;
+	font-family:Arial;
+	text-align:center;
+}
+input
+{
+	text-align:center;
+}
+a
+{
+	font-size:20px;
+	color:white;
+}
